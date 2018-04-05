@@ -1,0 +1,1 @@
+IllegalArgumentException occurred while calling setter for property [com.rest.employee.controller.model.EmpDto.empno (expected type = long)]; target = [EmpDto(empno=0, ename=null)], property value = [7839] setter of com.rest.employee.controller.model.EmpDto.empno

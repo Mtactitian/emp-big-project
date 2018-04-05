@@ -1,0 +1,1 @@
+IllegalArgumentException occurred while calling setter for property [com.rest.employee.controller.model.EmpDto.hiredate (expected type = java.time.LocalDate)]; target = [EmpDto(empno=null, ename=null, job=null, hiredate=null)], property value = [1981-11-17 00:00:00.0]

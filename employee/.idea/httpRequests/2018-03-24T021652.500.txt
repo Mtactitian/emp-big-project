@@ -1,0 +1,1 @@
+IllegalArgumentException occurred while calling setter for property [com.rest.employee.controller.model.EmpDto.EMPNO (expected type = java.lang.Integer)]; target = [com.rest.employee.controller.model.EmpDto@3279a2c9], property value = [7839] setter of com.rest.employee.controller.model.EmpDto.EMPNO

@@ -1,0 +1,9 @@
+com/rest/employee/consumerSideTest.class
+com/rest/employee/EmployeeApplicationTests.class
+com/rest/employee/model/EmployeeAssert.class
+com/rest/employee/model/AbstractEmployeeAssert.class
+com/rest/employee/consumerSideTest$1.class
+com/rest/employee/controller/EmpControllerTest.class
+com/rest/employee/BaseEmpControllerTestClass.class
+com/rest/employee/ContractVerifierTest.class
+com/rest/employee/dao/EmpDaoTest.class
